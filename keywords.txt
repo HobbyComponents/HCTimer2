@@ -1,0 +1,2 @@
+HCTimer2Init 	KEYWORD2 
+HCTimer2	KEYWORD2
